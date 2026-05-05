@@ -1,17 +1,17 @@
 # Hey, I'm Ravi 👋
 
-**Product-minded full-stack engineer** building AI-native apps, developer tools, and polished web experiences.
+**Product-minded full-stack engineer** building AI-native applications, developer tools, and high-quality product experiences.
 
-I focus on shipping real products fast, with strong UX and practical AI systems.
+I focus on **shipping real products fast** — combining strong engineering with clean UX and practical AI systems.
 
 ---
 
-## 🚀 What I Build
+## ⚡ What I Do
 
-* AI-powered applications and workflows
-* Full-stack apps with React, TypeScript, Node.js, Postgres
-* Developer tools and automation systems
-* Mobile-first dashboards and interfaces
+* Build AI-powered products and workflows
+* Develop full-stack apps (React, TypeScript, Node.js, Postgres)
+* Design clean, fast, mobile-first interfaces
+* Create developer tools and internal platforms
 
 ---
 
@@ -21,41 +21,55 @@ I focus on shipping real products fast, with strong UX and practical AI systems.
 
 AI-powered training log and coaching platform for strength athletes.
 
-* Workout tracking + analytics
-* AI-generated programs
-* Weekly summaries + coaching insights
-* Video form analysis
+* Smart workout tracking + analytics
+* AI-generated programs and weekly insights
+* Video-based form analysis
+* Built as a focused, mobile-first product
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, TypeScript, Tailwind
-**Backend:** Node.js, Express, PostgreSQL
-**AI:** OpenAI APIs, LLM workflows
-**Infra:** Docker, CI/CD
+```ts
+Frontend  → React · TypeScript · Tailwind · Vite  
+Backend   → Node.js · Express · PostgreSQL  
+AI        → OpenAI APIs · LLM workflows  
+Infra     → Docker · CI/CD · Cloud deployment  
+```
 
 ---
 
-## ⚡ Featured Projects
+## 🚀 Featured Work
 
-* **[IronLog](https://github.com/i-am-uranium/ironlog)** — AI training + coaching platform
-* **[Lumen](https://github.com/i-am-uranium/lumen)** — Dev tool / system work
-* **[Lunify](https://github.com/i-am-uranium/lunify)** — AI + product experiments
+### 🔹 [IronLog](https://github.com/i-am-uranium/ironlog)
+
+AI training + coaching platform
+→ Product-focused, AI-integrated full-stack system
+
+### 🔹 [Lumen](https://github.com/i-am-uranium/lumen)
+
+Developer tooling & system workflows
+→ Focus on productivity + engineering UX
+
+### 🔹 [Lunify](https://github.com/i-am-uranium/lunify)
+
+AI experiments & product ideas
+→ Rapid iteration + applied AI systems
 
 ---
 
-## 🧭 How I Work
+## 🧭 How I Think
 
-I care about:
+I care about building software that is:
 
-* Clear, fast, useful products
-* Tight feedback loops
-* Strong UX over unnecessary abstraction
+* **Clear** — easy to understand and use
+* **Fast** — tight feedback loops, minimal friction
+* **Useful** — solves real problems
+* **Durable** — scales without unnecessary complexity
 
 ---
 
-## 📍 Based in
+## 📍 Location
 
 Bengaluru
 

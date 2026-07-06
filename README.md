@@ -1,80 +1,107 @@
 # Hey, I'm Ravi 👋
 
-**Product-minded full-stack engineer** building AI-native applications, developer tools, and high-quality product experiences.
+I'm an **AI Product Engineer** building AI-native applications, autonomous workflows, and developer tools.
 
-I focus on **shipping real products fast** — combining strong engineering with clean UX and practical AI systems.
-
----
-
-## ⚡ What I Do
-
-* Build AI-powered products and workflows
-* Develop full-stack apps (React, TypeScript, Node.js, Postgres)
-* Design clean, fast, mobile-first interfaces
-* Create developer tools and internal platforms
+I enjoy turning ambitious ideas into polished products by combining strong engineering, thoughtful UX, and practical AI. My focus is on shipping production-ready systems that solve real problems—not just demos.
 
 ---
 
-## 🧠 Current Focus
+## 🚀 What I Build
 
-### 🔥 IronLog
+* 🤖 AI agents and autonomous workflows
+* 🏗️ Full-stack AI products and SaaS applications
+* 🧩 Developer tools and internal platforms
+* 🔎 RAG, LLM, and retrieval-powered systems
+* ⚡ Fast, intuitive, mobile-first user experiences
 
-AI-powered training log and coaching platform for strength athletes.
+---
 
-* Smart workout tracking + analytics
-* AI-generated programs and weekly insights
+## 🌱 Currently Exploring
+
+* Multi-agent systems
+* Context engineering
+* LLM evaluation & observability
+* Voice AI
+* AI infrastructure and developer experience
+
+---
+
+## 🔥 Current Project
+
+### 🏋️ IronLog
+
+An AI-powered coaching platform for strength athletes.
+
+**Highlights**
+
+* AI-generated workout programs
+* Smart workout tracking & progress analytics
+* Weekly coaching insights
 * Video-based form analysis
-* Built as a focused, mobile-first product
+* Mobile-first experience built for everyday training
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-```ts
-Frontend  → React · TypeScript · Tailwind · Vite  
-Backend   → Node.js · Express · PostgreSQL  
-AI        → OpenAI APIs · LLM workflows  
-Infra     → Docker · CI/CD · Cloud deployment  
-```
+### Frontend
 
----
+React • TypeScript • Tailwind CSS • Vite
 
-## 🚀 Featured Work
+### Backend
 
-### 🔹 [IronLog](https://github.com/i-am-uranium/ironlog)
+Node.js • Express • PostgreSQL
 
-AI training + coaching platform
-→ Product-focused, AI-integrated full-stack system
+### AI
 
-### 🔹 [Lumen](https://github.com/i-am-uranium/lumen)
+OpenAI • LangGraph • Langfuse • RAG • Vector Search
 
-Developer tooling & system workflows
-→ Focus on productivity + engineering UX
+### Infrastructure
 
-### 🔹 [Lunify](https://github.com/i-am-uranium/lunify)
-
-AI experiments & product ideas
-→ Rapid iteration + applied AI systems
+Docker • Kubernetes • CI/CD • Cloud Deployment
 
 ---
 
-## 🧭 How I Think
+## 🚀 Featured Projects
 
-I care about building software that is:
+### 🔹 [IronLog](https://github.com/ravirann/ironlog)
 
-* **Clear** — easy to understand and use
-* **Fast** — tight feedback loops, minimal friction
-* **Useful** — solves real problems
-* **Durable** — scales without unnecessary complexity
+AI-powered strength coaching platform focused on helping athletes train smarter with personalized insights, intelligent programming, and performance analytics.
 
 ---
 
-## 📍 Location
+### 🔹 [Lumen](https://github.com/ravirann/lumen)
 
-Bengaluru
+Developer platform for engineering workflows, AI-assisted operations, and productivity tooling with a strong emphasis on developer experience.
 
 ---
 
-## 📫 Reach
+### 🔹 [Lunify](https://github.com/ravirann/lunify)
 
-Always building, experimenting, and improving systems.
+A playground for AI products, experiments, and rapid prototyping where new ideas move quickly from concept to working software.
+
+---
+
+## 🎯 What I Optimize For
+
+I believe great software should be:
+
+* **Clear** — intuitive and easy to understand
+* **Fast** — responsive with tight feedback loops
+* **Useful** — solves meaningful problems
+* **Reliable** — production-ready and maintainable
+* **Simple** — scalable without unnecessary complexity
+
+---
+
+## 💡 Philosophy
+
+> Build products people actually use—not prototypes that stay in slide decks.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in AI products, developer tooling, open source, and ambitious engineering challenges.
+
+📍 Bengaluru, India

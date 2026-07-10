@@ -1,107 +1,76 @@
+<div align="center">
+
 # Hey, I'm Ravi 👋
 
-I'm an **AI Product Engineer** building AI-native applications, autonomous workflows, and developer tools.
+**I build things. Lately, most of them think a little.**
 
-I enjoy turning ambitious ideas into polished products by combining strong engineering, thoughtful UX, and practical AI. My focus is on shipping production-ready systems that solve real problems—not just demos.
+<sub>Bengaluru, India</sub>
 
----
-
-## 🚀 What I Build
-
-* 🤖 AI agents and autonomous workflows
-* 🏗️ Full-stack AI products and SaaS applications
-* 🧩 Developer tools and internal platforms
-* 🔎 RAG, LLM, and retrieval-powered systems
-* ⚡ Fast, intuitive, mobile-first user experiences
+</div>
 
 ---
 
-## 🌱 Currently Exploring
+I've been shipping software for about a decade — long enough to have a graveyard of early iOS
+experiments, a couple of Flutter apps people actually starred, and a growing pile of AI systems
+I'm genuinely excited about. I'm a generalist at heart: I go wide across mobile, backend, infra,
+and ML, and I learn by building real things rather than reading about them.
 
-* Multi-agent systems
-* Context engineering
-* LLM evaluation & observability
-* Voice AI
-* AI infrastructure and developer experience
+These days I'm most drawn to **AI that has to earn its keep** — agents that do real work, RAG
+that cites its sources, tools that make other engineers faster. I spend most of my time on the
+unglamorous parts: *Does it actually work? Can you tell why it did that? Does it run without me
+babysitting it?* That's usually the difference between a demo and something people rely on.
 
----
-
-## 🔥 Current Project
-
-### 🏋️ IronLog
-
-An AI-powered coaching platform for strength athletes.
-
-**Highlights**
-
-* AI-generated workout programs
-* Smart workout tracking & progress analytics
-* Weekly coaching insights
-* Video-based form analysis
-* Mobile-first experience built for everyday training
+I also have a soft spot for tools that run on your own machine — no API keys, no phoning home.
 
 ---
 
-## 🛠️ Tech Stack
+### 🔨 What I'm building now
 
-### Frontend
+- **[portico](https://github.com/ravirann/portico)** — self-hostable browser automation for
+  regulated portals (healthcare payer / EHR), where PHI can't leave your VPC. The interesting bit:
+  an LLM *authors and repairs* the automation, but never runs on the hot path — so a healthy run
+  moves at browser speed, not model speed.
+- **[org-context](https://github.com/ravirann/org-context)** — a context engine for coding agents.
+  It ingests a team's code, PRs, tickets, and incidents and serves permission-aware, source-backed
+  context over REST, MCP, and CLI. Basically: give your agents the same context a senior engineer has.
+- **[study_graph](https://github.com/ravirann/study_graph)** — a study buddy that runs entirely
+  offline. Drop in your PDFs and notes, ask questions, get cited answers and flashcards — local
+  models, local database, zero API keys.
+- **[lumen](https://github.com/ravirann/lumen)** — a local-first desktop workbench for poking at,
+  debugging, and operating Kubernetes clusters without living in `kubectl`.
 
-React • TypeScript • Tailwind CSS • Vite
+There's also a **patient-engagement recommendation platform** I'm building privately — rules-first,
+ML-assisted WhatsApp outreach for a health team, where the model suggests but never overrides the
+safety rules, and every recommendation is fully auditable.
 
-### Backend
+### 📱 Where I started
 
-Node.js • Express • PostgreSQL
+Before any of the AI stuff, I was a mobile dev. A couple of those apps are *still* my most-starred
+repos — which is either humbling or motivating depending on the day.
 
-### AI
-
-OpenAI • LangGraph • Langfuse • RAG • Vector Search
-
-### Infrastructure
-
-Docker • Kubernetes • CI/CD • Cloud Deployment
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [IronLog](https://github.com/ravirann/ironlog)
-
-AI-powered strength coaching platform focused on helping athletes train smarter with personalized insights, intelligent programming, and performance analytics.
-
----
-
-### 🔹 [Lumen](https://github.com/ravirann/lumen)
-
-Developer platform for engineering workflows, AI-assisted operations, and productivity tooling with a strong emphasis on developer experience.
+- **[doordish](https://github.com/ravirann/doordish)** `⭐ 45` &nbsp;·&nbsp;
+  **[smart-home-dashboard](https://github.com/ravirann/smart-home-dashboard)** `⭐ 31` — Flutter, back when Flutter was new.
 
 ---
 
-### 🔹 [Lunify](https://github.com/ravirann/lunify)
+### 🧭 A few things I've come to believe
 
-A playground for AI products, experiments, and rapid prototyping where new ideas move quickly from concept to working software.
-
----
-
-## 🎯 What I Optimize For
-
-I believe great software should be:
-
-* **Clear** — intuitive and easy to understand
-* **Fast** — responsive with tight feedback loops
-* **Useful** — solves meaningful problems
-* **Reliable** — production-ready and maintainable
-* **Simple** — scalable without unnecessary complexity
+- **Ship it, then make it good.** Something in production teaches you more than a perfect plan.
+- **If the AI can't explain itself, it doesn't get to decide.** Confidence without a reason is a liability.
+- **Small and self-contained beats big and needy.** I'd rather hand you something that runs on your laptop today.
 
 ---
 
-## 💡 Philosophy
+### 🛠️ Usual suspects
 
-> Build products people actually use—not prototypes that stay in slide decks.
+`TypeScript` · `Python` · `React` · `FastAPI` · `Node` · `PostgreSQL` · `Playwright` · `LangGraph` · `Ollama & local LLMs` · `pgvector` · `Docker` · `Kubernetes` — and whatever the problem actually needs.
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-I'm always interested in AI products, developer tooling, open source, and ambitious engineering challenges.
+Always up for good problems — AI products, dev tooling, open source, or anything worth building well.
 
-📍 Bengaluru, India
+**Let's talk.** 📍 Bengaluru, India
+
+</div>
